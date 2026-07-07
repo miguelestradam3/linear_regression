@@ -115,7 +115,7 @@ The notebook demonstrates:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/simple-linear-regression.git
+git clone https://github.com/miguelestradam3/linear_regression.git
 
 cd simple-linear-regression
 ```
